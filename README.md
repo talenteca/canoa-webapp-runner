@@ -9,7 +9,6 @@ It currently supports Tomcat 10.0.
     * [Maven](#maven)
 - [Using behind a reverse proxy server](#using-behind-a-reverse-proxy-server)
 - [Options](#options)
-- [Development](#development)
 
 ## Usage
 
